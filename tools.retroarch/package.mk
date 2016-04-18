@@ -20,7 +20,7 @@
 
 PKG_NAME="tools.retroarch"
 PKG_VERSION=""
-PKG_REV="1"
+PKG_REV="2"
 PKG_ARCH="any"
 PKG_LICENSE="free as freedom"
 PKG_SITE="https://github.com/libretro/Lakka"
